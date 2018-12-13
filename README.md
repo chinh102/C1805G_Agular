@@ -1,5 +1,2 @@
-# this is Agular cOURSE C1805G class 2018
-##teacher information 
--- Nguyen Duc Huy
-Email: nshuy.teacher@gmail.com
-
+# this is Agular COURSE C1805G class 2018
+-- by: Pham Van Chinh
